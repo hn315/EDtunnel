@@ -10,7 +10,7 @@ let userID = 'd18ea7e2-455c-4c2d-a8bb-1ebd891281a7';
 // if you want to use ipv6 or single proxyIP, please add comment at this line and remove comment at the next line
 //let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 // use single proxyIP instead of random
-let proxyIP = '64.110.88.46';
+let proxyIP = 'workers.cloudflare.cyou';
 // ipv6 proxyIP example remove comment to use
 // let proxyIP = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
 
